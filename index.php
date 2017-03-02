@@ -13,7 +13,7 @@
 			</td>
 			<td>
 				<h1 id = "message"><?php echo "Hello World!"; ?></h1>
-				<p class='description'></p> This is great!!! My Bluemix Demo!! Thanks for creating a <span class="blue">PHP Starter Application</span>.
+				<p class='description'></p> Oh! This is great!!! My Bluemix Demo!! Thanks for creating a <span class="blue">PHP Starter Application</span>.
 			</td>
 		</tr>
 	</table>
